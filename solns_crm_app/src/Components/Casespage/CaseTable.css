@@ -1,0 +1,15 @@
+.leadrow{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    background-color: rgb(207, 237, 255);
+    margin-top: 10px;
+    border-bottom: 1px solid  rgb(6, 77, 122);
+}
+
+.rowElements{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: flex-start;
+}

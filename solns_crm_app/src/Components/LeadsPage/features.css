@@ -1,0 +1,53 @@
+.features-outer-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.p-lead{
+    color: #282c34 ;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 50px;
+    margin-bottom: 0px;
+}
+
+.list-box {
+    width: fit-content;
+    color: white;
+    
+}
+
+.list-item {
+    background-color: #50545c;
+    
+   
+}
+
+.btn-lead{
+    color: white;
+}
+
+.dropdown{
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+
+
+.search_form{
+   margin-right: 150px;
+    width: 500px;
+  }
+
+  .btn-search{
+    color: black !important;
+    font-size: 20px !important;
+    margin-left: -45px !important;
+  }
+
+  .formbox{
+    display: flex;
+    flex-direction: row;
+  }

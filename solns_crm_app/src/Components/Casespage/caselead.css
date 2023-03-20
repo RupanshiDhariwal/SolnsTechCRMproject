@@ -1,0 +1,8 @@
+.firstrowcase{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(6, 77, 122);
+    color: white;
+
+}

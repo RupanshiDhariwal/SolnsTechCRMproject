@@ -1,0 +1,24 @@
+.onBoardForm{
+   
+   width:fit-content;
+   border: 2px solid black;
+   padding: 50px;
+   background-color: rgb(244, 209, 209);
+   margin-bottom: 20px; 
+}
+
+.outerdivOnBoard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(47, 47, 82);
+    
+}
+
+.btn-submit{
+    background-color:  rgb(47, 47, 82); 
+    color: rgb(244, 209, 209);
+    border: 2px solid white;
+    /* background-color:  rgb(146, 146, 249);  */
+}

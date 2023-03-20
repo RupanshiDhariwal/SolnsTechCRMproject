@@ -1,0 +1,7 @@
+.OnBoardFormBoxes{
+  display: flex;
+  flex-direction: row; 
+ margin-top: 5px;
+  justify-content: space-around;
+  align-items: flex-start;
+}

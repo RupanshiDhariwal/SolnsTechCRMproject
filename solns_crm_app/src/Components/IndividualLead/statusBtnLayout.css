@@ -1,0 +1,26 @@
+.statusBtn{
+    border: 1px solid grey;
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.horizontalLine{
+width: 210px;
+height: 4px;
+background-color: rgb(111, 68, 135);
+margin-top: 15px;
+
+}
+
+.statusLayout{
+    padding-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+

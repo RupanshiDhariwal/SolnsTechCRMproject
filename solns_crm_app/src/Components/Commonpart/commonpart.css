@@ -1,0 +1,31 @@
+.App-header {
+    background-color: #282c34;
+    min-height: 70px;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+   align-items: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    font-family: 'Abril Fatface', cursive;
+   
+  }
+  
+  .App-header h1 {
+  margin-left: 10px;
+  }
+  
+  .profile-box {
+    color: #282c34;
+    height: 40px;
+    width: 40px;
+    background-color: rgb(231, 230, 235);
+    margin-right: 10px;
+  }
+
+  
+
+  
+  
+
+  
